@@ -1,0 +1,7 @@
+{
+  "name": "issueFirebaseX",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
